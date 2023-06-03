@@ -1,0 +1,9 @@
+{
+	"name": "DF-itLand",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "62d8c32e-2d9e-45b3-a573-18a053dec182",
+		"tenantId": "73c88bf2-41a2-4433-9fa9-f4bcdfae4174"
+	}
+}
